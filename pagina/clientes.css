@@ -1,0 +1,8 @@
+div#formularioclientes {
+    width: 350px;
+    margin-left: calc(50% - 180px);
+    border: solid 1px;
+    padding: 23px;
+    margin-top: 12px;
+    background: #6c757d57;
+}
